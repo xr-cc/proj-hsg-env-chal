@@ -1,4 +1,4 @@
-# Project Housing x Environmental Challenges
+# Socieconomic Status x Environmental Challenges
 This is the team project for DS4A: Women's Summit (FL2020), Team 31. 
 
 ## Project Outline
