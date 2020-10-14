@@ -1,4 +1,5 @@
-# Socieconomic Status x Environmental Challenges
+# The City-Dweller at the Crossroads: The Intersection of Public Health Risks, Income Disparity, and Seismic Hazard in the Bay Area
+--
 This is the team project for DS4A: Women's Summit (FL2020), Team 31. 
 
 ## Project Outline
