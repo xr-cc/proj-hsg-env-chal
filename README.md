@@ -1,6 +1,5 @@
 # The City-Dweller at the Crossroads: The Intersection of Public Health Risks, Income Disparity, and Seismic Hazard in the Bay Area
---
-This is the team project for DS4A: Women's Summit (FL2020), Team 31. 
+__This is the team project for DS4A: Women's Summit (FL2020), Team 31__
 
 ## Project Outline
 > People in real life are simultaneously exposed to multiple contaminants from multiple sources and also have multiple stressors based on their health status as well as living conditions. Thus, the resulting cumulative health risk is also often influenced by non-chemical factors such as socioeconomic and health status of the people living in a community.
@@ -16,7 +15,7 @@ We intend to identify how relationships between public health risks and socioeco
 
 
 ## Files
-Code files are located under "code/". All code are in Python notebook.
+Code files are located under "code/". All code are in Python notebook or R.
 
 ".pdf" is a writeup of our problem statement, data background, methods, results and discussions.  (TBA)
 
