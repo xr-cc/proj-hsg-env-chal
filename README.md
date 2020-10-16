@@ -1,5 +1,7 @@
 # The City-Dweller at the Crossroads: The Intersection of Public Health Risks, Income Disparity, and Seismic Hazard in the Bay Area
 __This is the team project for DS4A: Women's Summit (FL2020), Team 31__
+_Team Members: Bin Lin, Xiran Liu, Natasha Toghramadjian, Athena Zhang_
+_Project Mentors: Geetha Gopakumar, Maria Fernanda Osorio Moreno_
 
 ## Project Outline
 > People in real life are simultaneously exposed to multiple contaminants from multiple sources and also have multiple stressors based on their health status as well as living conditions. Thus, the resulting cumulative health risk is also often influenced by non-chemical factors such as socioeconomic and health status of the people living in a community.
