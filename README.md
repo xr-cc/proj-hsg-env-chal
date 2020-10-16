@@ -12,6 +12,8 @@ We intend to identify how relationships between public health risks and socioeco
 * Income data from Social Explorer: http://socialexplorer.com
 * Seismic data from the California Department of Conservation and California Geological Survey: http://conservation.ca.gov
 
+## Poster
+![][Time 31 Presentation.pdf]
 
 
 ## Files
