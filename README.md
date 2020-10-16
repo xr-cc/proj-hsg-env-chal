@@ -1,6 +1,8 @@
 # The City-Dweller at the Crossroads: The Intersection of Public Health Risks, Income Disparity, and Seismic Hazard in the Bay Area
 __This is the team project for DS4A: Women's Summit (FL2020), Team 31__
+
 _Team Members: Bin Lin, Xiran Liu, Natasha Toghramadjian, Athena Zhang_
+
 _Project Mentors: Geetha Gopakumar, Maria Fernanda Osorio Moreno_
 
 ## Project Outline
