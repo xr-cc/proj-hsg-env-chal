@@ -19,5 +19,5 @@ We intend to identify how relationships between public health risks and socioeco
 ## Files
 Code files are located under "code/". All code are in Python notebook or R.
 
-".pdf" is a writeup of our problem statement, data background, methods, results and discussions.  (TBA)
+[Here](Project_Report.pdf) is a report summarizing our motivations, problem statement, data background, methods, results and discussions.  
 
