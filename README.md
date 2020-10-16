@@ -13,7 +13,11 @@ We intend to identify how relationships between public health risks and socioeco
 * Seismic data from the California Department of Conservation and California Geological Survey: http://conservation.ca.gov
 
 ## Poster
-![][Time 31 Presentation.pdf]
+<object data="https://github.com/xr-cc/proj-hsg-env-chal/blob/master/Time%2031%20Presentation.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/xr-cc/proj-hsg-env-chal/blob/master/Time%2031%20Presentation.pdf">
+        <p>Poster</p>
+    </embed>
+</object>
 
 
 ## Files
